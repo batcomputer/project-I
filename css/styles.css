@@ -1,0 +1,27 @@
+.container{
+  font-family:"oswald";
+}
+.card{
+  padding-top: 50px;
+  width:250px;
+}
+.card-title{
+  text-transform: uppercase;
+}
+h3{
+  text-transform: uppercase;
+}
+.rounded-circle{
+  width:150px;
+}
+.my-image{
+  width:550px;
+  height:550px;
+
+}
+.card-text{
+  background-color: yellow;
+}
+.card-title{
+  background-color: slategray;
+}
