@@ -1,27 +1,33 @@
-.container{
-  font-family:"oswald";
+.container-fluid {
+     font-family: "oswald";
+     padding-top: -150px;
+     max-width: 100%;
 }
-.card{
-  padding-top: 50px;
-  width:250px;
+ .card {
+     max-width: 100%;
 }
-.card-title{
-  text-transform: uppercase;
+ .navbar-nav {
+     padding:1.5em;
 }
-h3{
-  text-transform: uppercase;
+ .nav-brand{
+     text-transform: uppercase;
 }
-.rounded-circle{
-  width:150px;
+ header {
+     max-width: 100%;
 }
-.my-image{
-  width:550px;
-  height:550px;
+ .card-title {
+     text-transform: uppercase;
+}
+ h3 {
+     text-transform: uppercase;
+}
+ .rounded-circle {
+     width: 150px;
+}
+ .img-top {
+     width: 300px;
 
 }
-.card-text{
-  background-color: yellow;
-}
-.card-title{
-  background-color: slategray;
+ .card-text {
+     background-color: yellow;
 }
